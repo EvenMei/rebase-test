@@ -9,5 +9,6 @@ public class RebaseTest {
     public static void main(String[] args) {
         System.out.println(" AAAAA ");
         System.out.println(" BBBBB ");
+        System.out.println(" CCCCC ");
     }
 }
